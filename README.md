@@ -1,8 +1,8 @@
 # Hi, I'm Furkan! 👋
 
-🎓 Computer Engineering Student
-🤖 Learning Computer Vision & Deep Learning
-🚀 52-week intensive CV journey
+🎓 Computer Engineering Student <br />
+🤖 Learning Computer Vision & Deep Learning <br />
+🚀 52-week intensive CV journey <br />
 
 ## 🔭 Currently Working On
 - Deep Learning fundamentals
