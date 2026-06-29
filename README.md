@@ -1,7 +1,7 @@
 # Hi, I'm Furkan! 👋
 
 🎓 Computer Engineering Student <br />
-🤖 Interested in cyber security <br />
+🤖 Interested in embedded programming <br />
 
 ## 🌱 Learning
 - C Programming
